@@ -1,4 +1,4 @@
-let API_KEY = "AIzaSyBg-fpvrwjgTan32c4X_2E-GcNhtSp8E_s"
+let API_KEY = "AIzaSyBg-fpvrwjg"
 
 let lower_body = document.getElimentById('lower-body');
 let search =document.getElementById("search").value || "hgyh";
